@@ -95,7 +95,7 @@ function Product() {
                           }`}
                         ></i>
                       </span>
-                      {productCount} Added in the cart
+                      {productCount}  Added in Cart
                       <span
                         className="increase_button"
                         onClick={() => addToCart(product.id)}
